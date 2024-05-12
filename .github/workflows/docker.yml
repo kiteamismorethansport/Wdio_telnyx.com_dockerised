@@ -1,0 +1,19 @@
+name: Run Docker Image
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  run-image:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Run Docker Container
+      run: docker run --rm dmitrykiteam/webdriverio-tests
