@@ -27,4 +27,6 @@ Install the necessary packages:
 bash
 npm install
 
+### To run tests locally build docker image from Dockerfile, and run it.
+
 ### To run tests on a github actions you need to create repository, and to push this project to your newly created repository. Github actions will start the flow, and the tests will be running.
