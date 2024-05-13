@@ -15,17 +15,19 @@ You need Node.js and npm installed on your computer. If you do not have these in
 
 
 ### Check Node.js installation
+```
 node --version
-
+```
 ### Check npm installation
+```
 npm --version
+```
 
 ### Installation  
 
 Clone the repository to your local machine:
 ```
-git clone https://github.com/kiteamismorethansport/wdio_telnyx.com_tests_dockerised.git  
-cd wdio_telnyx.com_tests_dockerised.git  
+git clone https://github.com/kiteamismorethansport/wdio_telnyx.com_tests_dockerised.git   
 ```
 Install the necessary packages:
 ```
