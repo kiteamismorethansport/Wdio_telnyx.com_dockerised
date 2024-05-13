@@ -27,7 +27,7 @@ npm --version
 
 Clone the repository to your local machine:
 ```
-git clone https://github.com/kiteamismorethansport/wdio_telnyx.com_tests_dockerised.git   
+git clone https://github.com/kiteamismorethansport/Wdio_telnyx.com_dockerised.git   
 ```
 Install the necessary packages:
 ```
