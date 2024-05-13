@@ -1,4 +1,4 @@
-# WebdriverIO Tests for Telnyx.com with Allure Reporting
+# WebdriverIO Tests for Telnyx.com dockerised
 
 This repository contains docker.yml file which runs docker image from the Docker Hub with webdriver.io tests for telnyx.com website on github actions.
 
